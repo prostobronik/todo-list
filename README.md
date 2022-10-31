@@ -1,4 +1,5 @@
-# React Project for the React Course
+# React Project ToDo-List
+## 
 
 ## Available Scripts
 
